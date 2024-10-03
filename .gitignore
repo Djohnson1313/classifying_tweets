@@ -1,2 +1,5 @@
-# ignoring checkpoints
+# ignore checkpoints
 .ipynb_checkpoints/
+
+# ignore data
+tweet_sentiment_records.csv
