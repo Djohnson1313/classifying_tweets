@@ -4,5 +4,5 @@
 # ignore data
 tweet_sentiment_records.csv
 
-$ ignore ds store
+# ignore ds store
 .DS_Store
