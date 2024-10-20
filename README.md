@@ -31,7 +31,7 @@ To evaluate the success of a model, we will be using specific type of metric - p
 
 # Conclusion 
 
-MultinomialNB functioned well for predicting emotions associated with the tweets. Some preprocessing was used to ensure the sucess of the model, and in the ned, the model reached an 86% precision rate.
+MultinomialNB functioned well for predicting emotions associated with the tweets. Some preprocessing was used to ensure the sucess of the model, and in the end, the model reached an 86% precision rate.
 
 ## Repository Structure
 
