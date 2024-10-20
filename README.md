@@ -3,7 +3,7 @@
 - Darryn Johnson
 - Instructor : Mark Barbour
 - Date : 10/19/2024
-- Blog :
+- Blog :[Function over.... Pipeline?](https://datascienceandyou.blogspot.com/2024/10/function-over-pipeline.html)
 - Link to repository : [classifying_tweets](https://github.com/Djohnson1313/classifying_tweets)
 - Link to notebook : [classifying_tweets.ipynb](https://github.com/Djohnson1313/nlp_classifier/blob/main/classifying_tweets.ipynb)
 
