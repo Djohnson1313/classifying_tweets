@@ -1,9 +1,7 @@
 # Classifying Tweets
 
-- Darryn Johnson
-- Instructor : Mark Barbour
+- DJohnson1313
 - Date : 10/19/2024
-- Blog :[Function over.... Pipeline?](https://datascienceandyou.blogspot.com/2024/10/function-over-pipeline.html)
 - Link to repository : [classifying_tweets](https://github.com/Djohnson1313/classifying_tweets)
 - Link to notebook : [classifying_tweets.ipynb](https://github.com/Djohnson1313/nlp_classifier/blob/main/classifying_tweets.ipynb)
 - Link to presentation [nlp_presentation](https://github.com/Djohnson1313/classifying_tweets/blob/main/nlp_presentation.pdf)
